@@ -1,5 +1,5 @@
-# sp500vsbtc
-Correlação SP500 VS Bitcoin 
+# Existe Correlação entre SP500 e Bitcoin ?
+
 
 Basta instalar o Anaconda -> https://www.anaconda.com/distribution/#download-section e abrir o Jupyter Notebook.
 
